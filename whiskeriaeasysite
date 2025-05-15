@@ -50,7 +50,7 @@
         <!-- Produto: Whisky -->
         <div class="bg-white text-black p-8 rounded-2xl shadow-xl hover:scale-105 transition">
           <h4 class="text-2xl font-bold mb-2">Whisky</h4>
-          <p class="mb-4">Red Label, Jack Daniel's, Ballantine's e mais.</p>
+          <p class="mb-4">Johnnie Walker, Jack Daniel's e mais.</p>
           <a href="https://wa.me/5522999742397?text=Ol%C3%A1%2C%20gostaria%20de%20comprar%20whisky%20na%20Whiskeria%20Easy" target="_blank" class="inline-block bg-yellow-500 text-black px-6 py-2 rounded-full hover:bg-yellow-600 transition">Comprar</a>
         </div>
 
@@ -71,14 +71,14 @@
         <!-- Produto: Cerveja -->
         <div class="bg-white text-black p-8 rounded-2xl shadow-xl hover:scale-105 transition">
           <h4 class="text-2xl font-bold mb-2">Cerveja</h4>
-          <p class="mb-4">Skol, Brahma, Heineken, Budweiser e artesanais.</p>
+          <p class="mb-4"> Brahma e Heineken.</p>
           <a href="https://wa.me/5522999742397?text=Ol%C3%A1%2C%20gostaria%20de%20comprar%20cerveja%20na%20Whiskeria%20Easy" target="_blank" class="inline-block bg-yellow-500 text-black px-6 py-2 rounded-full hover:bg-yellow-600 transition">Comprar</a>
         </div>
 
         <!-- Produto: Refrigerante -->
         <div class="bg-white text-black p-8 rounded-2xl shadow-xl hover:scale-105 transition">
           <h4 class="text-2xl font-bold mb-2">Refrigerante</h4>
-          <p class="mb-4">Coca-Cola, Guaraná, Fanta, Pepsi e mais.</p>
+          <p class="mb-4">Coca-Cola e Guaraná.</p>
           <a href="https://wa.me/5522999742397?text=Ol%C3%A1%2C%20gostaria%20de%20comprar%20refrigerante%20na%20Whiskeria%20Easy" target="_blank" class="inline-block bg-yellow-500 text-black px-6 py-2 rounded-full hover:bg-yellow-600 transition">Comprar</a>
         </div>
       </div>
